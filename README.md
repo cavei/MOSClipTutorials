@@ -9,7 +9,7 @@ Welcome to [MOSClip](https://cavei.github.io/MOSClip/) tutorial series.
 
 In this section you can find a series of tutorial:
  - [how to download data from TCGA](https://cavei.github.io/MOSClipTutorials/How-to-download-from-TCGA.html)
- - [how to format the dataset for MOSCLip](https://cavei.github.io/MOSClipTutorials/How-to-format-TCGA-datasets.html)
+ - [how to format the dataset for MOSCLip](https://cavei.github.io/MOSClipTutorials/How-to-format-TCGA-datasets.html) (Needs [functions-to-process-TCGA-data.R](https://cavei.github.io/MOSClipTutorials/functions-to-process-TCGA-data.R) in the downloadTCGA directory)
  - [how to perform the analysis](https://cavei.github.io/MOSClipTutorials/workflowGitHub_TCGA_MOSClipAnalysisTutorial.html)
 
 
