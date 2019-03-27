@@ -12,6 +12,10 @@ In this section you can find a series of tutorial:
  - [how to format the dataset for MOSCLip](https://cavei.github.io/MOSClipTutorials/How-to-format-TCGA-datasets.html) (Needs [functions-to-process-TCGA-data.R](https://cavei.github.io/MOSClipTutorials/functions-to-process-TCGA-data.R) in the downloadTCGA directory)
  - [how to perform the analysis](https://cavei.github.io/MOSClipTutorials/workflowGitHub_TCGA_MOSClipAnalysisTutorial.html)
 
+ Special features Tutorials:
+ - [how to perform the analysis with cox robust](https://cavei.github.io/MOSClipTutorials/workflowGitHub_TCGA_MOSClip_robust_example.html)
+ - [how to perform the analysis with additional covariates](https://cavei.github.io/MOSClipTutorials/workflowGitHub_TCGA_MOSClip_with_added_annotation.html)
+
 
 ## Pre-compiled data
 
