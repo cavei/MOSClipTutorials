@@ -15,6 +15,8 @@ In this section you can find a series of tutorial:
  Special features Tutorials:
  - [how to perform the analysis with cox robust](https://cavei.github.io/MOSClipTutorials/workflowGitHub_TCGA_MOSClip_robust_example.html)
  - [how to perform the analysis with additional covariates](https://cavei.github.io/MOSClipTutorials/workflowGitHub_TCGA_MOSClip_with_added_annotation.html)
+- [how to perform the analysis with gene sets rather than pathways](https://cavei.github.io/MOSClipTutorials/workflowGitHub_TCGA_MOSClipAnalysisTutorial_geneList.html)
+
 
 
 ## Pre-compiled data
